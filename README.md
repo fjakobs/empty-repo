@@ -1,2 +1,2 @@
-# empty-repo
+# Empty Repository
 Empty repository
